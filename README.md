@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Moklechur Rahman 👋
 
-<!--
-**MoklechurRahman/MoklechurRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Garments Industrial Engineering (IE) 
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in garment manufacturing, industrial engineering, productivity improvement, and software solutions for the garment industry.
+
+🚀 My Project
+
+Garments Production Study
+
+An Android application for garment production study.
+
+Cycle Time Study
+
+Production Analysis
+
+Garment Manufacturing Support
+
+📲 Download the App:
+
+Garments Production Study – Download APK
+
+🔗 Connect & Explore
+
+GitHub: https://github.com/MoklechurRahman
+
+App Website: https://moklechurrahman.github.io/Garments-Production-Study/
+
+Thanks for visiting my profile!
+
